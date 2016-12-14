@@ -1,6 +1,14 @@
 # Search Cleanser
 A SQL CLR function to strip diacritics and special characters for search strings. If used to strip query input, it must also be used to strip text upon indexing (ie. They must match).
 
+### Prerequisites
+CLR must be enabled before using this function
+```
+sp_configure 'clr enabled', 1
+RECONFIGURE
+```
+
+### Installation
 Once CLR function is built in Visual Studio, we can "publish" it to a script, which generates the below code that can be run.
 This is for SQL 2008 and Requires .Net Framework 3.5
 ```
@@ -27,7 +35,7 @@ PRINT N'Creating [dbo].[StripChars]...';
 
 GO
 CREATE FUNCTION [dbo].[StripChars]
-(@text NVARCHAR (MAX) NULL)
+(@text NVARCHAR (MAX))
 RETURNS NVARCHAR (MAX)
 AS
  EXTERNAL NAME [SearchCleanser].[UserDefinedFunctions].[StripChars]
