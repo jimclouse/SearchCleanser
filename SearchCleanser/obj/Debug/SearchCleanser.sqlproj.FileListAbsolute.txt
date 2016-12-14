@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\bin\Debug\SearchCleanser.dacpac
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\bin\Debug\SearchCleanser.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\bin\Debug\SearchCleanser.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\obj\Debug\Model.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\obj\Debug\refactor.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\obj\Debug\predeploy.sql
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\obj\Debug\SearchCleanser.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DiacriticCleaner\DiacriticCleaner\obj\Debug\SearchCleanser.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.dacpac
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\obj\Debug\SearchCleanser.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\obj\Debug\SearchCleanser.pdb
