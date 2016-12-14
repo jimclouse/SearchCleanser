@@ -44,3 +44,10 @@ AS
 GO
 PRINT N'Update complete.';
 ```
+
+
+### Testing
+```
+select [dbo].StripChars('crème brûlée')
+```
+Should return `creme brulee`
