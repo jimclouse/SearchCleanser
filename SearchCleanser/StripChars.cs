@@ -19,7 +19,7 @@ public partial class UserDefinedFunctions
         var normalizedString = text.Normalize(NormalizationForm.FormD);
         var stringBuilder = new StringBuilder();
 
-        List<char> allowedChars = new List<char> { ' ', '&', '.' };
+        List<char> allowedChars = new List<char> { ' ', '&', '.', '-' };
 
         foreach (var c in normalizedString)
         {
