@@ -12,3 +12,8 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\Sear
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.pdb
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\obj\Debug\SearchCleanser.dll
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SearchCleanser\SearchCleanser\obj\Debug\SearchCleanser.pdb
+C:\SearchCleanser\SearchCleanser\obj\Debug\SearchCleanser.dll
+C:\SearchCleanser\SearchCleanser\obj\Debug\SearchCleanser.pdb
+C:\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.dacpac
+C:\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.dll
+C:\SearchCleanser\SearchCleanser\bin\Debug\SearchCleanser.pdb

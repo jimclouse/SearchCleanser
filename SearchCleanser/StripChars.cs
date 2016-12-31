@@ -27,6 +27,8 @@ public partial class UserDefinedFunctions
             if (unicodeCategory == UnicodeCategory.LetterNumber ||
                 unicodeCategory == UnicodeCategory.LowercaseLetter ||
                 unicodeCategory == UnicodeCategory.UppercaseLetter ||
+                unicodeCategory == UnicodeCategory.DecimalDigitNumber ||
+                unicodeCategory == UnicodeCategory.DashPunctuation ||
                allowedChars.Contains(c)
                 )
             {
