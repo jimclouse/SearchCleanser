@@ -14,3 +14,9 @@
        [dbo].[StripChars] (Function)
 
 ** Supporting actions
+
+Incorrect syntax near GO.
+Incorrect syntax near +.
+Incorrect syntax near GO.
+Incorrect syntax near +.
+
